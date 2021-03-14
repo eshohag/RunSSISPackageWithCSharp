@@ -58,6 +58,7 @@
   <ItemGroup>
     <Content Include="ReadMeFirst\ReadMe.txt" />
     <Content Include="ReadMeFirst\References.png" />
+    <Content Include="ReadMeFirst\DeployIntoSSISDB.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
